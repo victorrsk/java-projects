@@ -15,7 +15,7 @@ public class TestingFeatures {
          */
 
         // -------------------------------------
-        double twoPow = Math.pow(2.0, 2.0);
+        /*double twoPow = Math.pow(2.0, 2.0);
         double hundredSqrt = Math.sqrt(100.0);
         double testFloor = Math.floor(2.8232);
         double testCeil = Math.ceil(2.1121);
@@ -25,5 +25,8 @@ public class TestingFeatures {
         System.out.println(testFloor);
         System.out.println(twoPow);
         System.out.println(hundredSqrt);
+        int increment = 0;
+        System.out.println(increment);*/
+
     }
 }
