@@ -1,3 +1,5 @@
+package basics;
+
 public class StringMethods {
     static void main(String[] args) {
         String text = "       Sample text for trying string methods!                ";

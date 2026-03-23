@@ -1,4 +1,4 @@
-import com.sun.jdi.Value;
+package basics;
 
 import java.util.Scanner;
 
@@ -15,9 +15,8 @@ public class Loops {
         }*/
         // for
         var sc = new Scanner(System.in);
-        int end = sc.nextInt();
         int i = 0;
-        for (int cont=0; cont < end; cont++) {
+        for (int cont=10; cont > 0; cont--) {
             System.out.println(cont);
         }
     }
