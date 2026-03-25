@@ -1,6 +1,6 @@
 package basics;
 
-public class TestingFeatures {
+public class MathMethods {
     public static void main(String[] args) {
         // type casting
 //        double pi = 3.14;

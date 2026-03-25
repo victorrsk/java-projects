@@ -14,10 +14,13 @@ public class Loops {
 
         }*/
         // for
-        var sc = new Scanner(System.in);
+        /*var sc = new Scanner(System.in);
         int i = 0;
         for (int cont=10; cont > 0; cont--) {
-            System.out.println(cont);
+            System.out.println(cont);*/
+        int[] numbers = new int[] {1, 2, 3, 4, 5};
+        for (int number : numbers) {
+            System.out.println(number);
         }
     }
 }
