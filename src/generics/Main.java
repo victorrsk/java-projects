@@ -7,6 +7,8 @@ public class Main {
         objInteger.addListItems(new Integer[] {1, 2, 3, 4, 5});
         objInteger.printList();
 
+        WildCard obj = new WildCard();
+        System.out.println(obj);
 
         MyClass<Double> objDouble = new MyClass<>(10.00);
         objDouble.addListItems(new Double[] {1.2 , 2.1, 3.3, 4.5});
